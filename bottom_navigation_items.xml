@@ -1,3 +1,8 @@
+/**
+        Under res directory create menu resource directory and then craete bottom navigation items under this
+
+**/
+
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/home" android:icon="@drawable/ic_baseline_home_24" android:title="Home"/>
